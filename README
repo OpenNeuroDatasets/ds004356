@@ -20,7 +20,7 @@ https://github.com/maddoxlab/Music_vs_Speech_abr
 
 ## Format
 
-This dataset is formatted according to the EEG Brain Imaging Data Structure. It includes EEG recording from subject 001 to subject 024 (excluding subject 014 and subject 021) in raw brainvision format (including `.eeg`, `.vhdr`, and `.vmrk` triplet). 
+This dataset is formatted according to the EEG Brain Imaging Data Structure. It includes EEG recording from subject 001 to subject 024 (excluding subject 014 and subject 021) in raw brainvision format (including `.eeg`, `.vhdr`, and `.vmrk` triplet) and stimuli files in format of `.wav`. 
 
 For some subjects (sub-03 & sub-19), there are 2 "runs" of data that the first run (`run-01`) only contains the click phase (phase 1), and the second run includes the data for the ABR analysis. 
 
