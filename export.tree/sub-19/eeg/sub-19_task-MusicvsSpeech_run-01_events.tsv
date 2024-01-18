@@ -1,0 +1,11 @@
+onset	duration	trial_type	value	sample	trial	number_trial	EEG_trigger	stim_file
+16.32449188770281	60	click	0	163249	0	0	1	/stimuli/click/click000.wav
+76.5124871878203	60	click	0	765144	1	1	1	/stimuli/click/click001.wav
+136.70258243543913	60	click	0	1367060	2	2	1	/stimuli/click/click002.wav
+196.8825779355516	60	click	0	1968875	3	3	1	/stimuli/click/click003.wav
+257.09257268568285	60	click	0	2570990	4	4	1	/stimuli/click/click004.wav
+317.3145671358216	60	click	0	3173225	5	5	1	/stimuli/click/click005.wav
+377.5526611834704	60	click	0	3775621	6	6	1	/stimuli/click/click006.wav
+437.7546561335967	60	click	0	4377656	7	7	1	/stimuli/click/click007.wav
+497.9466513337167	60	click	0	4979591	8	8	1	/stimuli/click/click008.wav
+558.1746456338592	60	click	0	5581886	9	9	1	/stimuli/click/click009.wav
