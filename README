@@ -10,7 +10,7 @@ Please contact the following authors for further information:
 
 The goal of this study is to derive Auditory Brainstem Response (ABR) from continuous music and speech stimuli using deconvolution method. Data collected from Jun to Aug, 2021.
 
-The details of the experiment can be found at Shan et al. (2022). There were two phases in this experiment. For the first phase, ten trials of one-minute clicks were presented to the subjects. For the second phase, the 12 types (six genres of music and six types of speech) of 12 s stimuli clips were presented. There were 40 trials 
+The details of the experiment can be found at Shan et al. (2024). There were two phases in this experiment. For the first phase, ten trials of one-minute clicks were presented to the subjects. For the second phase, the 12 types (six genres of music and six types of speech) of 12 s stimuli clips were presented. There were 40 trials 
 for each type with shuffled order. Between trials, there was a 0.5 s pause. 
 
 The code for stimulus preprocessing and EEG analysis is available on Github: 
